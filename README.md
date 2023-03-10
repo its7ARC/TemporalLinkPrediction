@@ -7,8 +7,8 @@ The architecture is a conjunction of :
 - LSTM : for processing the temporal graph at each time step.
 
 ## Model Statistics 
-- Training error after 40 epochs - 0.36.
-- Test AUC score - 0.53.
+- Training error after 40 epochs : 0.36 (criterion : binary cross entropy).
+- Test AUC score : 0.53.
 
 ## Links 
 - Presentation - [PPT](https://github.com/its7ARC/TemporalLinkPrediction/blob/main/EvolveGAT_ppt.pdf).
