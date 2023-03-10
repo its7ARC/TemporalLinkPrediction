@@ -13,3 +13,4 @@ The architecture is a conjunction of :
 ## Links 
 - Presentation - [PPT](https://github.com/its7ARC/TemporalLinkPrediction/blob/main/EvolveGAT_ppt.pdf).
 - Source Code - [Code](https://github.com/its7ARC/TemporalLinkPrediction/blob/main/EvolveGAT_Code.ipynb).
+- Primary base paper - [EvolveGCN](https://arxiv.org/abs/1902.10191).
